@@ -3,7 +3,6 @@ import os
 import sys
 from colorama import Fore, Style
 
-#mamatana2807
 
 def conectred():
     os.system("nmcli device wifi list")
